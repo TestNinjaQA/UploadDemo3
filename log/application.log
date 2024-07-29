@@ -1,0 +1,95 @@
+2024-07-26 08:40:52 INFO  inetBankingV3:15 - opened url
+2024-07-26 08:40:58 INFO  inetBankingV3:31 - test passed
+2024-07-26 08:47:51 INFO  inetBankingV3:15 - opened url
+2024-07-26 08:47:58 INFO  inetBankingV3:31 - test passed
+2024-07-26 08:49:53 INFO  inetBankingV3:15 - opened url
+2024-07-26 08:49:57 INFO  inetBankingV3:31 - test passed
+2024-07-26 08:54:13 INFO  inetBankingV3:15 - opened url
+2024-07-26 08:54:19 INFO  inetBankingV3:31 - test passed
+2024-07-26 13:38:54 INFO  inetBankingV3:15 - opened url
+2024-07-26 13:38:58 INFO  inetBankingV3:31 - test passed
+2024-07-26 13:59:35 INFO  inetBankingV3:17 - opened url
+2024-07-26 13:59:39 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:01:20 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:01:24 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:03:29 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:03:33 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:05:45 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:05:50 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:28:28 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:28:33 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:33:31 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:33:36 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:36:27 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:36:30 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:38:20 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:38:24 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:39:58 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:40:03 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:41:31 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:41:34 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:44:09 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:44:13 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:53:01 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:53:05 INFO  inetBankingV3:33 - test passed
+2024-07-26 14:54:42 INFO  inetBankingV3:17 - opened url
+2024-07-26 14:54:46 INFO  inetBankingV3:37 - test failed
+2024-07-26 14:57:39 INFO  inetBankingV3:17 - opened url
+2024-07-26 18:56:34 INFO  inetBankingV3:17 - opened url
+2024-07-26 18:56:40 INFO  inetBankingV3:33 - test passed
+2024-07-26 19:01:59 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:09:03 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:19:18 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:24:22 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:29:34 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:44:30 INFO  inetBankingV3:17 - opened url
+2024-07-26 19:45:47 INFO  inetBankingV3:17 - opened url
+2024-07-26 20:05:01 INFO  inetBankingV3:17 - opened url
+2024-07-26 20:09:35 INFO  inetBankingV3:17 - opened url
+2024-07-27 12:26:37 INFO  inetBankingV3:17 - opened url
+2024-07-27 18:18:37 INFO  inetBankingV3:17 - opened url
+2024-07-27 18:18:41 INFO  inetBankingV3:33 - test passed
+2024-07-27 18:48:34 INFO  inetBankingV3:34 - Login has passedd
+2024-07-27 18:48:56 INFO  inetBankingV3:34 - Login has passedd
+2024-07-27 18:49:16 INFO  inetBankingV3:34 - Login has passedd
+2024-07-27 18:49:35 INFO  inetBankingV3:34 - Login has passedd
+2024-07-28 09:20:35 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 09:20:56 INFO  inetBankingV3:59 - test case failed
+2024-07-28 09:21:57 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 09:22:18 INFO  inetBankingV3:56 - test case passed
+2024-07-28 09:28:02 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 09:35:50 INFO  inetBankingV3:17 - opened url
+2024-07-28 09:35:54 INFO  inetBankingV3:37 - test failed
+2024-07-28 09:36:15 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 09:36:35 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 09:36:55 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 09:37:18 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 09:37:43 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 11:45:21 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 11:45:43 INFO  inetBankingV3:56 - test case passed
+2024-07-28 13:06:09 INFO  inetBankingV3:17 - opened url
+2024-07-28 13:06:13 INFO  inetBankingV3:37 - test failed
+2024-07-28 13:06:34 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:06:54 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:07:15 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:07:41 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:08:05 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 13:11:37 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 13:11:59 INFO  inetBankingV3:56 - test case passed
+2024-07-28 13:22:40 INFO  inetBankingV3:17 - opened url
+2024-07-28 13:22:44 INFO  inetBankingV3:37 - test failed
+2024-07-28 13:23:07 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:23:28 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:23:47 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:24:07 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 13:24:33 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 13:24:57 INFO  inetBankingV3:56 - test case passed
+2024-07-28 19:12:28 INFO  inetBankingV3:17 - opened url
+2024-07-28 19:13:48 INFO  inetBankingV3:17 - opened url
+2024-07-28 19:13:53 INFO  inetBankingV3:33 - test passed
+2024-07-28 19:14:13 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 19:14:34 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 19:14:55 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 19:15:17 INFO  inetBankingV3:41 - Login has passedd
+2024-07-28 19:15:47 INFO  inetBankingV3:27 - Logged in successfully
+2024-07-28 19:16:08 INFO  inetBankingV3:56 - test case passed

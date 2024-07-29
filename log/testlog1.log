@@ -1,0 +1,133 @@
+2024-07-25 20:49:09,082 [main] INFO inetBankingV3 - opened url
+2024-07-25 20:49:13,464 [main] INFO inetBankingV3 - test passed
+2024-07-25 20:49:14,537 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@d5d5353: 0 ms
+2024-07-25 20:49:14,788 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@561b7d53: 251 ms
+2024-07-25 20:49:15,102 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@254f906e: 314 ms
+2024-07-25 20:49:15,102 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@3d0035d2: 0 ms
+2024-07-25 20:49:15,133 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@63884e4: 31 ms
+2024-07-25 20:49:15,164 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c8c70d6: 31 ms
+2024-07-25 20:49:15,196 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3f1ed068: 32 ms
+2024-07-25 20:55:10,276 [main] INFO inetBankingV3 - opened url
+2024-07-25 20:55:14,006 [main] INFO inetBankingV3 - test passed
+2024-07-25 20:55:14,429 [AsyncHttpClient-1-4] WARN org.asynchttpclient.netty.handler.WebSocketHandler - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:256)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2024-07-25 20:55:15,133 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2f897dab: 0 ms
+2024-07-25 20:55:15,334 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@22eaa86e: 199 ms
+2024-07-25 20:55:15,579 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@2dc3271b: 244 ms
+2024-07-25 20:55:15,581 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@254f906e: 1 ms
+2024-07-25 20:55:15,597 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@1a1f5f71: 15 ms
+2024-07-25 20:55:15,613 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@623ebac7: 14 ms
+2024-07-25 20:55:15,637 [main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4437ac07: 22 ms
+2024-07-26 08:21:41,501 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:21:46,101 [main] INFO inetBankingV3 - test passed
+2024-07-26 08:33:59,529 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:34:03,562 [main] INFO inetBankingV3 - test passed
+2024-07-26 08:40:52,977 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:40:58,428 [main] INFO inetBankingV3 - test passed
+2024-07-26 08:47:51,970 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:47:58,205 [main] INFO inetBankingV3 - test passed
+2024-07-26 08:49:53,151 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:49:57,282 [main] INFO inetBankingV3 - test passed
+2024-07-26 08:54:13,759 [main] INFO inetBankingV3 - opened url
+2024-07-26 08:54:19,055 [main] INFO inetBankingV3 - test passed
+2024-07-26 13:38:54,694 [main] INFO inetBankingV3 - opened url
+2024-07-26 13:38:58,656 [main] INFO inetBankingV3 - test passed
+2024-07-26 13:59:35,041 [main] INFO inetBankingV3 - opened url
+2024-07-26 13:59:39,252 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:01:20,626 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:01:24,746 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:03:29,833 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:03:33,926 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:05:45,985 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:05:50,291 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:28:28,915 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:28:33,087 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:33:31,670 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:33:36,406 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:36:27,054 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:36:30,961 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:38:20,509 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:38:24,802 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:39:58,718 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:40:03,274 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:41:31,336 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:41:34,910 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:44:09,188 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:44:13,645 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:53:01,403 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:53:05,398 [main] INFO inetBankingV3 - test passed
+2024-07-26 14:54:42,305 [main] INFO inetBankingV3 - opened url
+2024-07-26 14:54:46,237 [main] INFO inetBankingV3 - test failed
+2024-07-26 14:57:39,219 [main] INFO inetBankingV3 - opened url
+2024-07-26 18:56:34,654 [main] INFO inetBankingV3 - opened url
+2024-07-26 18:56:40,072 [main] INFO inetBankingV3 - test passed
+2024-07-26 19:01:59,174 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:09:03,431 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:19:18,729 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:24:22,774 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:29:34,776 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:44:30,099 [main] INFO inetBankingV3 - opened url
+2024-07-26 19:45:47,214 [main] INFO inetBankingV3 - opened url
+2024-07-26 20:05:01,944 [main] INFO inetBankingV3 - opened url
+2024-07-26 20:09:35,142 [main] INFO inetBankingV3 - opened url
+2024-07-27 12:26:37,312 [main] INFO inetBankingV3 - opened url
+2024-07-27 18:18:37,163 [main] INFO inetBankingV3 - opened url
+2024-07-27 18:18:41,659 [main] INFO inetBankingV3 - test passed
+2024-07-27 18:48:34,420 [main] INFO inetBankingV3 - Login has passedd
+2024-07-27 18:48:56,895 [main] INFO inetBankingV3 - Login has passedd
+2024-07-27 18:49:16,039 [main] INFO inetBankingV3 - Login has passedd
+2024-07-27 18:49:35,558 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 09:20:35,767 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 09:20:56,444 [main] INFO inetBankingV3 - test case failed
+2024-07-28 09:21:57,121 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 09:22:18,779 [main] INFO inetBankingV3 - test case passed
+2024-07-28 09:28:02,345 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 09:35:50,600 [main] INFO inetBankingV3 - opened url
+2024-07-28 09:35:54,432 [main] INFO inetBankingV3 - test failed
+2024-07-28 09:36:15,217 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 09:36:35,427 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 09:36:55,861 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 09:37:18,368 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 09:37:43,312 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 11:45:21,252 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 11:45:43,651 [main] INFO inetBankingV3 - test case passed
+2024-07-28 13:06:09,320 [main] INFO inetBankingV3 - opened url
+2024-07-28 13:06:13,483 [main] INFO inetBankingV3 - test failed
+2024-07-28 13:06:34,154 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:06:54,464 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:07:15,353 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:07:41,228 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:08:05,946 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 13:11:37,423 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 13:11:59,902 [main] INFO inetBankingV3 - test case passed
+2024-07-28 13:22:40,334 [main] INFO inetBankingV3 - opened url
+2024-07-28 13:22:44,508 [main] INFO inetBankingV3 - test failed
+2024-07-28 13:23:07,362 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:23:28,348 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:23:47,996 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:24:07,387 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 13:24:33,346 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 13:24:57,874 [main] INFO inetBankingV3 - test case passed
+2024-07-28 19:12:28,467 [TestNG-test=BankingTests-1] INFO inetBankingV3 - opened url
+2024-07-28 19:13:48,993 [main] INFO inetBankingV3 - opened url
+2024-07-28 19:13:53,115 [main] INFO inetBankingV3 - test passed
+2024-07-28 19:14:13,964 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 19:14:34,266 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 19:14:55,158 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 19:15:17,318 [main] INFO inetBankingV3 - Login has passedd
+2024-07-28 19:15:47,361 [main] INFO inetBankingV3 - Logged in successfully
+2024-07-28 19:16:08,270 [main] INFO inetBankingV3 - test case passed

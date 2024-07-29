@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BankingSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.inetBanking.Utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" parallel="classes" name="BankingTests(failed)">
+    <groups>
+      <run>
+        <include name="smoke"/>
+        <exclude name="regression"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.inetBanking.TestCases.TC_LoginDDT_002">
+        <methods>
+          <include name="loginDDT" invocation-numbers="0 1 2 3"/>
+        </methods>
+      </class> <!-- com.inetBanking.TestCases.TC_LoginDDT_002 -->
+      <class name="com.inetBanking.TestCases.TC_LoginTest_001">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.inetBanking.TestCases.TC_LoginTest_001 -->
+    </classes>
+  </test> <!-- BankingTests(failed) -->
+</suite> <!-- Failed suite [BankingSuite] -->
